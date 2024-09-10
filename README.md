@@ -47,6 +47,7 @@ Kérje be a víz hőmérsékletét! Írja ki a képernyőre a víz halmazállapo
 
 ### 8. feladat
 Döntsük el egy koordináta rendszerről, hogy melyik síknegyedbe van (vagy melyik koordináta tengelyre illeszkedik. A pont az origóba is lehet!)! Határozza meg a teszteseteket! Tesztelje ezekre a tesztesetekre a programot!
+![Síknegyedek](https://github.com/csarp-exam/program-control-structure-01-01-01-selection-text-exercises/blob/main/siknegyed.png)
 
 ### 9. feladat
 Kérje be egy diák átlagát. Írja ki az átlag alapján, hogy a diák kitűnő, jeles, közepes, elgséges vagy elégtelen eredményt ért-e el! (5->kitünő; 4,5-4,99->jeles;3,5-4,49->közepes,…)
