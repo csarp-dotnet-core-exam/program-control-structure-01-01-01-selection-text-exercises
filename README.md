@@ -53,3 +53,7 @@ Döntsük el egy koordináta rendszerről, hogy melyik síknegyedbe van (vagy me
 
 ### 9. feladat
 Kérje be egy diák átlagát. Írja ki az átlag alapján, hogy a diák kitűnő, jeles, közepes, elgséges vagy elégtelen eredményt ért-e el! (5->kitünő; 4,5-4,99->jeles;3,5-4,49->közepes,…)
+
+### 10. feladat
+Készítsen programot amely a bekért évszámról meghatározza, hogy [szökőév](https://hu.wikipedia.org/wiki/Szökőév) vagy sem.
+
